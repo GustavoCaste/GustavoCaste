@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gugacaste
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Html5, CSS, MYSQL, JAVA, DATA STRUCTURES
+- 🌱 I’m currently learning Html5, CSS, MySQL, Java and Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gustavocastelluccio@gmail.com
 
