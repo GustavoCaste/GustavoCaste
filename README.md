@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gugacaste
+- 👋 Hi, I’m @GustavoCaste
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Html5, CSS, MySQL, Java and Data Structures
 - 💞️ I’m looking to collaborate on ...
